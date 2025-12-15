@@ -6,7 +6,7 @@ con = psycopg2.connect(
     host="localhost",
     database="sarahcruz",
     user="sarahcruz",
-    password="Yellow46"
+    password="PASSWORD"
 )
 
 # Isolation + atomicity
